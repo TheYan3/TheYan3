@@ -4,7 +4,7 @@
 
 <p align="left">I'm software developer from Ortenau</p>
 
-🔗[Check out my portfolio](https://dein-portfolio-link.com)
+🔗[Check out my portfolio](https://dein-portfolio-link.com) (comming soon)
 
 ###
 
@@ -38,9 +38,6 @@
 
 
 Welcome to my GitHub profile! Here you'll find projects I'm working on with passion to make the web a little more beautiful and smarter. ✨
-
-🔗 [Check out my portfolio](https://dein-portfolio-link.com)
-
 
 ## 📌 Highlight Projects
 
