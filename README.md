@@ -1,12 +1,12 @@
-## 👋 Hey, ich bin Yannic
+<h2 align="left">👋 Hey, I'm Yannic</h2>
 
-Willkommen auf meinem GitHub-Profil! Hier findest du meine Projekte, an denen ich mit Leidenschaft arbeite, um das Web ein kleines bisschen schöner und smarter zu machen. ✨
+###
 
-🔗 [Hier geht’s zu meinem Portfolio](https://dein-portfolio-link.com)
+<p align="left">I'm software developer from Ortenau</p>
 
----
+🔗[Check out my portfolio](https://dein-portfolio-link.com)
 
-## 🧰 Technologien, mit denen ich aktuell arbeite
+###
 
 <div style="display: flex; gap: 16px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" alt="HTML5" />
@@ -14,65 +14,57 @@ Willkommen auf meinem GitHub-Profil! Hier findest du meine Projekte, an denen ic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" alt="JavaScript" />
 </div>
 
----
+###
 
-## 📌 Projekte, die meine Skills zeigen
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Hier kommen bald einige meiner Lieblingsprojekte hin. Stay tuned! 🚧
+###
 
-- 🔧 [Projektname 1](https://link-zum-projekt.com)
-- 🔧 [Projektname 2](https://link-zum-projekt.com)
-- 🔧 [Projektname 3](https://link-zum-projekt.com)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
----
+###
 
-## 🙋‍♂️ Über mich
+<br clear="both">
 
-| Kategorie        | Infos                                   |
-|------------------|------------------------------------------|
-| 💻 Motivation     | Programme bauen, die das Leben leichter oder schöner machen
-| ✨ Lieblingsbereich | CSS – weil es einfach alles hübscher macht
-| 💪 Hobbys         | Fitness & Frontend
+<img src="https://raw.githubusercontent.com/TheYan3/TheYan3/output/snake.svg" alt="Snake animation" />
 
----
+###
 
-## 📬 Kontakt
 
-Hier kannst du mich erreichen – let’s connect! 🤝
 
-- ✉️ [E-Mail](mailto:deine-email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/deinprofil)
-- 🐦 [Twitter](https://twitter.com/deinprofil)
-- 📸 [Instagram](https://instagram.com/deinprofil)
+Welcome to my GitHub profile! Here you'll find projects I'm working on with passion to make the web a little more beautiful and smarter. ✨
 
----
+🔗 [Check out my portfolio](https://dein-portfolio-link.com)
 
-## 🚧 GitHub-Aktivität
 
-Ich bin aktuell aktiv dabei, Neues zu lernen und regelmäßig Code hochzuladen. 📈 Viele Repos sind noch privat, aber das wird sich bald ändern. 😎
+## 📌 Highlight Projects
 
-<!--
-Optional: GitHub Stats Widget hinzufügen, wenn gewünscht.
+Here you'll soon find some of my favorite projects. Stay tuned! 🚧
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DEINUSERNAME&show_icons=true)
--->
+- 🔧 [Project Name 1](https://link-zum-projekt.com)
+- 🔧 [Project Name 2](https://link-zum-projekt.com)
+- 🔧 [Project Name 3](https://link-zum-projekt.com)
 
 ---
 
-> „Code ist wie Sport: Mit jedem Tag wird man besser – man muss nur dranbleiben.“ 💡
+## 🙋‍♂️ About Me
+
+| Category        | Info                                       |
+|----------------|--------------------------------------------|
+| 💻 Motivation   | Building software that makes life easier or more enjoyable
+| ✨ Favorite area | CSS – because it makes everything look better
+| 💪 Hobbies       | Fitness & Frontend Development
+
+---
+
+## 🚧 GitHub Activity
+
+Currently in learning mode and pushing code regularly. 📈 Many repositories are private for now, but that will change soon. 😎
 
 
-<!--
-**TheYan3/TheYan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Code is like fitness: the more you do it, the stronger you get. Just keep going." 💡
