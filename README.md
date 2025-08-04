@@ -16,10 +16,6 @@
 </div>
 
 ###
-<!--
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
--->
-###
 
 <div align="left">
   <a href="https://www.instagram.com/theyan3/" target="_blank">
