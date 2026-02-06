@@ -49,7 +49,7 @@ Welcome to my GitHub profile! Here you'll find projects I'm working on with pass
 Here you'll soon find some of my favorite projects. Stay tuned! 🚧
 
 - 🔧 [Pokedex](https://github.com/TheYan3/001-Pokedex)
-- 🔧 [Project Name 2](https://link-zum-projekt.com)
+- 🔧 [Join (Projektmanagement)](https://link-zum-projekt.com)
 - 🔧 [Project Name 3](https://link-zum-projekt.com)
 
 ---
